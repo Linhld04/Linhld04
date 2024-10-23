@@ -2,8 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 *   🌍  I'm based in Việt Nam
-*   <a href="https://www.github.com/Linhld04" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Linhld04?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+*   <a href="https://www.github.com/Linhld04" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/github/followers/Linhld04?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ## 🌐Mạng xã hội
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ledinhlinhfb/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ledinhlinhfb/) 
 
